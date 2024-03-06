@@ -1,0 +1,16 @@
+{
+  "name": "02-npm",
+  "version": "1.0.0",
+  "description": "learning npm from dave gray npm YT playlist",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "sharif-22",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "uuid": "^9.0.1"
+  }
+}
