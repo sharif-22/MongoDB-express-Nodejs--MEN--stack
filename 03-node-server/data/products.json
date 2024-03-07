@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "category": "Mobile Phone",
+    "name": "Samsung Galaxy S21 Ultra",
+    "details": "The Samsung Galaxy S21 Ultra is a flagship smartphone featuring a 6.8-inch Dynamic AMOLED display, Exynos 2100 or Snapdragon 888 chipset, up to 16GB of RAM, and a versatile quad-camera system with a 108MP main sensor.",
+    "price": "INR 1,05,999",
+    "images": [
+      "samsung-galaxy-s21-ultra-front.jpg",
+      "samsung-galaxy-s21-ultra-back.jpg"
+    ],
+    "reviews": [
+      {
+        "reviewer": "TechGuru123",
+        "review": "The Samsung Galaxy S21 Ultra sets a new standard for flagship smartphones with its stunning display, powerful performance, and versatile camera system."
+      },
+      {
+        "reviewer": "MobileExpert2021",
+        "review": "I've been using the Galaxy S21 Ultra for a few weeks now, and I'm impressed with its overall performance and camera capabilities. It's definitely worth the investment."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Desktop Accessories",
+    "name": "Logitech MX Master 3 Wireless Mouse",
+    "details": "The Logitech MX Master 3 is an advanced wireless mouse designed for productivity. It features customizable buttons, a high-precision sensor, and a comfortable ergonomic design.",
+    "price": "INR 7,499",
+    "images": ["logitech-mx-master-3.jpg"],
+    "reviews": [
+      {
+        "reviewer": "TechEnthusiast22",
+        "review": "The Logitech MX Master 3 is hands down the best mouse I've ever used. Its customizable buttons and ergonomic design make it perfect for long hours of work."
+      },
+      {
+        "reviewer": "ProductivityPro",
+        "review": "I've been using the MX Master 3 for productivity tasks, and it's been a game-changer. The ergonomic design and customizable features have significantly improved my workflow."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Laptop Accessories",
+    "name": "Seagate Backup Plus Portable External Hard Drive",
+    "details": "The Seagate Backup Plus Portable External Hard Drive offers reliable storage solutions for your laptop. With capacities up to 5TB, USB 3.0 connectivity, and automatic backup software, it's ideal for storing and backing up important files.",
+    "price": "INR 6,999",
+    "images": ["seagate-external-hard-drive.jpg"],
+    "reviews": [
+      {
+        "reviewer": "StorageGuru",
+        "review": "The Seagate Backup Plus Portable External Hard Drive is a reliable and affordable storage solution. Its compact design and large capacity make it perfect for backing up important files."
+      },
+      {
+        "reviewer": "TechSavvyUser",
+        "review": "I've been using the Seagate Backup Plus for a while now, and it hasn't disappointed me. The automatic backup software works seamlessly, and the transfer speeds are impressive."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Mobile Accessories",
+    "name": "Apple AirPods Pro",
+    "details": "The Apple AirPods Pro are premium wireless earphones featuring active noise cancellation, transparency mode, and customizable silicone ear tips for a comfortable fit. They offer high-quality sound and seamless integration with Apple devices.",
+    "price": "INR 24,900",
+    "images": ["apple-airpods-pro.jpg"],
+    "reviews": [
+      {
+        "reviewer": "AudioFanatic",
+        "review": "The Apple AirPods Pro deliver exceptional sound quality and noise cancellation. They're perfect for listening to music, making calls, or watching movies on the go."
+      },
+      {
+        "reviewer": "TechReviewer99",
+        "review": "I've tried several wireless earphones, but none come close to the Apple AirPods Pro. The sound quality, comfort, and convenience they offer are unmatched."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Other Tech Products",
+    "name": "DJI Mavic Air 2 Drone",
+    "details": "The DJI Mavic Air 2 is a compact and powerful drone designed for aerial photography and videography. It features a 48MP camera, 4K video recording, intelligent shooting modes, and up to 34 minutes of flight time.",
+    "price": "INR 79,990",
+    "images": ["dji-mavic-air-2.jpg"],
+    "reviews": [
+      {
+        "reviewer": "DroneEnthusiast",
+        "review": "The DJI Mavic Air 2 is an incredible drone that offers professional-grade features in a compact form factor. Its camera quality and intelligent flight modes make capturing stunning aerial shots a breeze."
+      },
+      {
+        "reviewer": "TechReviewer2022",
+        "review": "I recently purchased the DJI Mavic Air 2, and I'm blown away by its performance. The build quality, flight stability, and camera capabilities exceed my expectations."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Mobile Phone",
+    "name": "OnePlus 9 Pro",
+    "details": "The OnePlus 9 Pro is a flagship smartphone with a 6.7-inch Fluid AMOLED display, Snapdragon 888 chipset, up to 12GB of RAM, and Hasselblad-tuned quad-camera setup for stunning photography.",
+    "price": "INR 64,999",
+    "images": ["oneplus-9-pro.jpg"],
+    "reviews": [
+      {
+        "reviewer": "TechFanatic007",
+        "review": "The OnePlus 9 Pro is an absolute beast in terms of performance and camera capabilities. The Hasselblad collaboration has taken smartphone photography to the next level."
+      },
+      {
+        "reviewer": "MobileGuru",
+        "review": "I've been using the OnePlus 9 Pro for gaming and multimedia, and it hasn't disappointed me. The smooth display, fast performance, and excellent battery life make it a top choice for power users."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Desktop Accessories",
+    "name": "Razer BlackWidow Elite Mechanical Gaming Keyboard",
+    "details": "The Razer BlackWidow Elite is a premium mechanical gaming keyboard with Razer Green switches, customizable RGB lighting, dedicated media controls, and a magnetic wrist rest for ergonomic comfort.",
+    "price": "INR 12,999",
+    "images": ["razer-blackwidow-elite.jpg"],
+    "reviews": [
+      {
+        "reviewer": "GamingPro2022",
+        "review": "The Razer BlackWidow Elite is hands down the best gaming keyboard I've ever used. The tactile feedback and customizable RGB lighting enhance the gaming experience."
+      },
+      {
+        "reviewer": "TechReviewerX",
+        "review": "I recently upgraded to the Razer BlackWidow Elite, and I'm impressed with its build quality and performance. The mechanical switches provide a satisfying typing experience, and the RGB lighting adds flair to my setup."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Laptop Accessories",
+    "name": "Logitech C920 HD Pro Webcam",
+    "details": "The Logitech C920 HD Pro Webcam delivers sharp, clear video quality for video calls, streaming, and recording. It features full HD 1080p resolution, autofocus, and dual stereo microphones.",
+    "price": "INR 7,495",
+    "images": ["logitech-c920-hd-pro-webcam.jpg"],
+    "reviews": [
+      {
+        "reviewer": "VideoCallExpert",
+        "review": "The Logitech C920 HD Pro Webcam is my go-to choice for video calls and virtual meetings. The video quality is exceptional, and the dual microphones capture clear audio."
+      },
+      {
+        "reviewer": "StreamMaster",
+        "review": "I've been using the Logitech C920 HD Pro Webcam for streaming on Twitch, and it's been fantastic. The crisp video quality and reliable autofocus make it perfect for broadcasting."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Mobile Accessories",
+    "name": "Anker PowerCore 10000 Portable Charger",
+    "details": "The Anker PowerCore 10000 is a compact and lightweight portable charger with a 10000mAh capacity. It features PowerIQ technology for fast charging and multiple safety features for reliable power delivery.",
+    "price": "INR 2,199",
+    "images": ["anker-powercore-10000.jpg"],
+    "reviews": [
+      {
+        "reviewer": "OnTheGoUser",
+        "review": "The Anker PowerCore 10000 is a lifesaver when I'm traveling or on the go. Its compact size and high capacity ensure that my devices stay charged throughout the day."
+      },
+      {
+        "reviewer": "TechSavvyTraveler",
+        "review": "I always carry the Anker PowerCore 10000 with me during my travels, and it's never let me down. It's reliable, fast-charging, and has saved me from running out of battery multiple times."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Other Tech Products",
+    "name": "Amazon Echo Dot (4th Gen)",
+    "details": "The Amazon Echo Dot (4th Gen) is a smart speaker with Alexa voice control. It features a sleek spherical design, improved audio quality, and built-in Zigbee hub for smart home control.",
+    "price": "INR 3,499",
+    "images": ["amazon-echo-dot-4th-gen.jpg"],
+    "reviews": [
+      {
+        "reviewer": "SmartHomeEnthusiast",
+        "review": "The Amazon Echo Dot (4th Gen) is the heart of my smart home setup. Its compact size, powerful voice control, and integration with smart home devices make it an essential gadget for home automation."
+      },
+      {
+        "reviewer": "TechFanatic22",
+        "review": "I love the Amazon Echo Dot (4th Gen) for its versatility and convenience. Whether it's playing music, controlling smart devices, or getting weather updates, Alexa always comes through."
+      }
+    ]
+  }
+]
